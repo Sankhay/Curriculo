@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Noto+Sans:wght@200&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 00px;
+    font-size: 25px;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+
+h2 {
+    font-size: 18px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.h1b {
+    color: black;
+    padding-top: 20px;
+}
+
+.h2b {
+    padding: 20px;
+}
+#einstein {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 56%;
+    margin-top: 50px;
+}
+
+#tecnologia {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#judo {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+}
+
+#linkedin {
+    width: 50%;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#github {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5vh;
+}
+
+#insta {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu {
+    width: 10vw;
+    height: 100vh;
+    position: fixed;
+    color: white;
+    left: 20px;
+}
+
+.menu2 {
+    width: 10vw;
+    height: 100vh;
+    position: fixed;
+    color: right;
+    right: 20px;
+    color: white;
+}
+
+#main {
+    margin-left: 22vw;
+    background-color: white;
+    margin-right: 22vw;
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
